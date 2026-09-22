@@ -1,0 +1,854 @@
+{
+  "session_id": "session_001",
+  "timestamp": "2026-09-22 23:54:47",
+  "summary": {
+    "total_enrolled": 2,
+    "present": 0,
+    "absent": 2,
+    "unknown_faces": 45,
+    "total_detections": 45
+  },
+  "present_students": [],
+  "absent_students": [
+    {
+      "name": "mayank 23030124003",
+      "avg_confidence": 0.0,
+      "max_confidence": 0.0,
+      "images_seen": 0,
+      "total_images": 6,
+      "status": "Absent"
+    },
+    {
+      "name": "ronak 23030124043",
+      "avg_confidence": 0.0,
+      "max_confidence": 0.0,
+      "images_seen": 0,
+      "total_images": 6,
+      "status": "Absent"
+    }
+  ],
+  "per_image_results": {
+    "IMG-20260317-WA0009.jpg.jpeg": [
+      {
+        "image": "IMG-20260317-WA0009.jpg.jpeg",
+        "bbox": [
+          23,
+          980,
+          172,
+          1158
+        ],
+        "name": "Unknown",
+        "confidence": 0.245,
+        "svm_pred": "Unknown",
+        "svm_conf": 0.0,
+        "knn_pred": "Unknown",
+        "knn_conf": 0.0,
+        "agreed": false,
+        "global_nn_sim": 0.245,
+        "reject_reason": "gate1_nn"
+      },
+      {
+        "image": "IMG-20260317-WA0009.jpg.jpeg",
+        "bbox": [
+          421,
+          808,
+          499,
+          913
+        ],
+        "name": "Unknown",
+        "confidence": 0.197,
+        "svm_pred": "Unknown",
+        "svm_conf": 0.0,
+        "knn_pred": "Unknown",
+        "knn_conf": 0.0,
+        "agreed": false,
+        "global_nn_sim": 0.197,
+        "reject_reason": "gate1_nn"
+      },
+      {
+        "image": "IMG-20260317-WA0009.jpg.jpeg",
+        "bbox": [
+          507,
+          798,
+          562,
+          863
+        ],
+        "name": "Unknown",
+        "confidence": 0.3,
+        "svm_pred": "Unknown",
+        "svm_conf": 0.0,
+        "knn_pred": "Unknown",
+        "knn_conf": 0.0,
+        "agreed": false,
+        "global_nn_sim": 0.3,
+        "reject_reason": "gate1_nn"
+      },
+      {
+        "image": "IMG-20260317-WA0009.jpg.jpeg",
+        "bbox": [
+          600,
+          778,
+          649,
+          831
+        ],
+        "name": "Unknown",
+        "confidence": 0.313,
+        "svm_pred": "Unknown",
+        "svm_conf": 0.0,
+        "knn_pred": "Unknown",
+        "knn_conf": 0.0,
+        "agreed": false,
+        "global_nn_sim": 0.313,
+        "reject_reason": "gate1_nn"
+      },
+      {
+        "image": "IMG-20260317-WA0009.jpg.jpeg",
+        "bbox": [
+          654,
+          708,
+          689,
+          750
+        ],
+        "name": "Unknown",
+        "confidence": 0.231,
+        "svm_pred": "Unknown",
+        "svm_conf": 0.0,
+        "knn_pred": "Unknown",
+        "knn_conf": 0.0,
+        "agreed": false,
+        "global_nn_sim": 0.231,
+        "reject_reason": "gate1_nn"
+      },
+      {
+        "image": "IMG-20260317-WA0009.jpg.jpeg",
+        "bbox": [
+          750,
+          717,
+          791,
+          762
+        ],
+        "name": "Unknown",
+        "confidence": 0.324,
+        "svm_pred": "Unknown",
+        "svm_conf": 0.0,
+        "knn_pred": "Unknown",
+        "knn_conf": 0.0,
+        "agreed": false,
+        "global_nn_sim": 0.324,
+        "reject_reason": "gate1_nn"
+      },
+      {
+        "image": "IMG-20260317-WA0009.jpg.jpeg",
+        "bbox": [
+          858,
+          753,
+          904,
+          803
+        ],
+        "name": "Unknown",
+        "confidence": 0.14,
+        "svm_pred": "Unknown",
+        "svm_conf": 0.0,
+        "knn_pred": "Unknown",
+        "knn_conf": 0.0,
+        "agreed": false,
+        "global_nn_sim": 0.14,
+        "reject_reason": "gate1_nn"
+      },
+      {
+        "image": "IMG-20260317-WA0009.jpg.jpeg",
+        "bbox": [
+          923,
+          797,
+          971,
+          861
+        ],
+        "name": "Unknown",
+        "confidence": 0.174,
+        "svm_pred": "Unknown",
+        "svm_conf": 0.0,
+        "knn_pred": "Unknown",
+        "knn_conf": 0.0,
+        "agreed": false,
+        "global_nn_sim": 0.174,
+        "reject_reason": "gate1_nn"
+      },
+      {
+        "image": "IMG-20260317-WA0009.jpg.jpeg",
+        "bbox": [
+          1081,
+          977,
+          1200,
+          1122
+        ],
+        "name": "Unknown",
+        "confidence": 0.159,
+        "svm_pred": "Unknown",
+        "svm_conf": 0.0,
+        "knn_pred": "Unknown",
+        "knn_conf": 0.0,
+        "agreed": false,
+        "global_nn_sim": 0.159,
+        "reject_reason": "gate1_nn"
+      }
+    ],
+    "IMG-20260317-WA0010.jpg.jpeg": [
+      {
+        "image": "IMG-20260317-WA0010.jpg.jpeg",
+        "bbox": [
+          0,
+          1077,
+          157,
+          1300
+        ],
+        "name": "Unknown",
+        "confidence": 0.31,
+        "svm_pred": "Unknown",
+        "svm_conf": 0.0,
+        "knn_pred": "Unknown",
+        "knn_conf": 0.0,
+        "agreed": false,
+        "global_nn_sim": 0.31,
+        "reject_reason": "gate1_nn"
+      },
+      {
+        "image": "IMG-20260317-WA0010.jpg.jpeg",
+        "bbox": [
+          380,
+          852,
+          478,
+          980
+        ],
+        "name": "Unknown",
+        "confidence": 0.274,
+        "svm_pred": "Unknown",
+        "svm_conf": 0.0,
+        "knn_pred": "Unknown",
+        "knn_conf": 0.0,
+        "agreed": false,
+        "global_nn_sim": 0.274,
+        "reject_reason": "gate1_nn"
+      },
+      {
+        "image": "IMG-20260317-WA0010.jpg.jpeg",
+        "bbox": [
+          629,
+          716,
+          664,
+          760
+        ],
+        "name": "Unknown",
+        "confidence": 0.154,
+        "svm_pred": "Unknown",
+        "svm_conf": 0.0,
+        "knn_pred": "Unknown",
+        "knn_conf": 0.0,
+        "agreed": false,
+        "global_nn_sim": 0.154,
+        "reject_reason": "gate1_nn"
+      },
+      {
+        "image": "IMG-20260317-WA0010.jpg.jpeg",
+        "bbox": [
+          693,
+          727,
+          739,
+          784
+        ],
+        "name": "Unknown",
+        "confidence": 0.173,
+        "svm_pred": "Unknown",
+        "svm_conf": 0.0,
+        "knn_pred": "Unknown",
+        "knn_conf": 0.0,
+        "agreed": false,
+        "global_nn_sim": 0.173,
+        "reject_reason": "gate1_nn"
+      },
+      {
+        "image": "IMG-20260317-WA0010.jpg.jpeg",
+        "bbox": [
+          785,
+          794,
+          846,
+          873
+        ],
+        "name": "Unknown",
+        "confidence": 0.183,
+        "svm_pred": "Unknown",
+        "svm_conf": 0.0,
+        "knn_pred": "Unknown",
+        "knn_conf": 0.0,
+        "agreed": false,
+        "global_nn_sim": 0.183,
+        "reject_reason": "gate1_nn"
+      },
+      {
+        "image": "IMG-20260317-WA0010.jpg.jpeg",
+        "bbox": [
+          884,
+          820,
+          960,
+          910
+        ],
+        "name": "Unknown",
+        "confidence": 0.153,
+        "svm_pred": "Unknown",
+        "svm_conf": 0.0,
+        "knn_pred": "Unknown",
+        "knn_conf": 0.0,
+        "agreed": false,
+        "global_nn_sim": 0.153,
+        "reject_reason": "gate1_nn"
+      },
+      {
+        "image": "IMG-20260317-WA0010.jpg.jpeg",
+        "bbox": [
+          1045,
+          966,
+          1187,
+          1136
+        ],
+        "name": "Unknown",
+        "confidence": 0.279,
+        "svm_pred": "Unknown",
+        "svm_conf": 0.0,
+        "knn_pred": "Unknown",
+        "knn_conf": 0.0,
+        "agreed": false,
+        "global_nn_sim": 0.279,
+        "reject_reason": "gate1_nn"
+      }
+    ],
+    "IMG-20260317-WA0012.jpg.jpeg": [
+      {
+        "image": "IMG-20260317-WA0012.jpg.jpeg",
+        "bbox": [
+          102,
+          963,
+          314,
+          1226
+        ],
+        "name": "Unknown",
+        "confidence": 0.286,
+        "svm_pred": "Unknown",
+        "svm_conf": 0.0,
+        "knn_pred": "Unknown",
+        "knn_conf": 0.0,
+        "agreed": false,
+        "global_nn_sim": 0.286,
+        "reject_reason": "gate1_nn"
+      },
+      {
+        "image": "IMG-20260317-WA0012.jpg.jpeg",
+        "bbox": [
+          318,
+          548,
+          419,
+          664
+        ],
+        "name": "Unknown",
+        "confidence": 0.237,
+        "svm_pred": "Unknown",
+        "svm_conf": 0.0,
+        "knn_pred": "Unknown",
+        "knn_conf": 0.0,
+        "agreed": false,
+        "global_nn_sim": 0.237,
+        "reject_reason": "gate1_nn"
+      },
+      {
+        "image": "IMG-20260317-WA0012.jpg.jpeg",
+        "bbox": [
+          327,
+          790,
+          455,
+          941
+        ],
+        "name": "Unknown",
+        "confidence": 0.193,
+        "svm_pred": "Unknown",
+        "svm_conf": 0.0,
+        "knn_pred": "Unknown",
+        "knn_conf": 0.0,
+        "agreed": false,
+        "global_nn_sim": 0.193,
+        "reject_reason": "gate1_nn"
+      },
+      {
+        "image": "IMG-20260317-WA0012.jpg.jpeg",
+        "bbox": [
+          473,
+          571,
+          540,
+          655
+        ],
+        "name": "Unknown",
+        "confidence": 0.184,
+        "svm_pred": "Unknown",
+        "svm_conf": 0.0,
+        "knn_pred": "Unknown",
+        "knn_conf": 0.0,
+        "agreed": false,
+        "global_nn_sim": 0.184,
+        "reject_reason": "gate1_nn"
+      },
+      {
+        "image": "IMG-20260317-WA0012.jpg.jpeg",
+        "bbox": [
+          708,
+          494,
+          758,
+          557
+        ],
+        "name": "Unknown",
+        "confidence": 0.184,
+        "svm_pred": "Unknown",
+        "svm_conf": 0.0,
+        "knn_pred": "Unknown",
+        "knn_conf": 0.0,
+        "agreed": false,
+        "global_nn_sim": 0.184,
+        "reject_reason": "gate1_nn"
+      },
+      {
+        "image": "IMG-20260317-WA0012.jpg.jpeg",
+        "bbox": [
+          760,
+          557,
+          819,
+          631
+        ],
+        "name": "Unknown",
+        "confidence": 0.229,
+        "svm_pred": "Unknown",
+        "svm_conf": 0.0,
+        "knn_pred": "Unknown",
+        "knn_conf": 0.0,
+        "agreed": false,
+        "global_nn_sim": 0.229,
+        "reject_reason": "gate1_nn"
+      },
+      {
+        "image": "IMG-20260317-WA0012.jpg.jpeg",
+        "bbox": [
+          839,
+          594,
+          924,
+          701
+        ],
+        "name": "Unknown",
+        "confidence": 0.339,
+        "svm_pred": "Unknown",
+        "svm_conf": 0.0,
+        "knn_pred": "Unknown",
+        "knn_conf": 0.0,
+        "agreed": false,
+        "global_nn_sim": 0.339,
+        "reject_reason": "gate1_nn"
+      },
+      {
+        "image": "IMG-20260317-WA0012.jpg.jpeg",
+        "bbox": [
+          955,
+          650,
+          1081,
+          783
+        ],
+        "name": "Unknown",
+        "confidence": 0.14,
+        "svm_pred": "Unknown",
+        "svm_conf": 0.0,
+        "knn_pred": "Unknown",
+        "knn_conf": 0.0,
+        "agreed": false,
+        "global_nn_sim": 0.14,
+        "reject_reason": "gate1_nn"
+      }
+    ],
+    "IMG-20260317-WA0013.jpg.jpeg": [
+      {
+        "image": "IMG-20260317-WA0013.jpg.jpeg",
+        "bbox": [
+          4,
+          619,
+          52,
+          677
+        ],
+        "name": "Unknown",
+        "confidence": 0.112,
+        "svm_pred": "Unknown",
+        "svm_conf": 0.0,
+        "knn_pred": "Unknown",
+        "knn_conf": 0.0,
+        "agreed": false,
+        "global_nn_sim": 0.112,
+        "reject_reason": "gate1_nn"
+      },
+      {
+        "image": "IMG-20260317-WA0013.jpg.jpeg",
+        "bbox": [
+          4,
+          946,
+          215,
+          1170
+        ],
+        "name": "Unknown",
+        "confidence": 0.289,
+        "svm_pred": "Unknown",
+        "svm_conf": 0.0,
+        "knn_pred": "Unknown",
+        "knn_conf": 0.0,
+        "agreed": false,
+        "global_nn_sim": 0.289,
+        "reject_reason": "gate1_nn"
+      },
+      {
+        "image": "IMG-20260317-WA0013.jpg.jpeg",
+        "bbox": [
+          318,
+          792,
+          446,
+          940
+        ],
+        "name": "Unknown",
+        "confidence": 0.292,
+        "svm_pred": "Unknown",
+        "svm_conf": 0.0,
+        "knn_pred": "Unknown",
+        "knn_conf": 0.0,
+        "agreed": false,
+        "global_nn_sim": 0.292,
+        "reject_reason": "gate1_nn"
+      },
+      {
+        "image": "IMG-20260317-WA0013.jpg.jpeg",
+        "bbox": [
+          428,
+          583,
+          488,
+          661
+        ],
+        "name": "Unknown",
+        "confidence": 0.208,
+        "svm_pred": "Unknown",
+        "svm_conf": 0.0,
+        "knn_pred": "Unknown",
+        "knn_conf": 0.0,
+        "agreed": false,
+        "global_nn_sim": 0.208,
+        "reject_reason": "gate1_nn"
+      },
+      {
+        "image": "IMG-20260317-WA0013.jpg.jpeg",
+        "bbox": [
+          511,
+          713,
+          598,
+          825
+        ],
+        "name": "Unknown",
+        "confidence": 0.207,
+        "svm_pred": "Unknown",
+        "svm_conf": 0.0,
+        "knn_pred": "Unknown",
+        "knn_conf": 0.0,
+        "agreed": false,
+        "global_nn_sim": 0.207,
+        "reject_reason": "gate1_nn"
+      },
+      {
+        "image": "IMG-20260317-WA0013.jpg.jpeg",
+        "bbox": [
+          602,
+          594,
+          650,
+          650
+        ],
+        "name": "Unknown",
+        "confidence": 0.266,
+        "svm_pred": "Unknown",
+        "svm_conf": 0.0,
+        "knn_pred": "Unknown",
+        "knn_conf": 0.0,
+        "agreed": false,
+        "global_nn_sim": 0.266,
+        "reject_reason": "gate1_nn"
+      },
+      {
+        "image": "IMG-20260317-WA0013.jpg.jpeg",
+        "bbox": [
+          735,
+          609,
+          786,
+          673
+        ],
+        "name": "Unknown",
+        "confidence": 0.169,
+        "svm_pred": "Unknown",
+        "svm_conf": 0.0,
+        "knn_pred": "Unknown",
+        "knn_conf": 0.0,
+        "agreed": false,
+        "global_nn_sim": 0.169,
+        "reject_reason": "gate1_nn"
+      },
+      {
+        "image": "IMG-20260317-WA0013.jpg.jpeg",
+        "bbox": [
+          804,
+          646,
+          868,
+          726
+        ],
+        "name": "Unknown",
+        "confidence": 0.189,
+        "svm_pred": "Unknown",
+        "svm_conf": 0.0,
+        "knn_pred": "Unknown",
+        "knn_conf": 0.0,
+        "agreed": false,
+        "global_nn_sim": 0.189,
+        "reject_reason": "gate1_nn"
+      },
+      {
+        "image": "IMG-20260317-WA0013.jpg.jpeg",
+        "bbox": [
+          905,
+          682,
+          993,
+          788
+        ],
+        "name": "Unknown",
+        "confidence": 0.115,
+        "svm_pred": "Unknown",
+        "svm_conf": 0.0,
+        "knn_pred": "Unknown",
+        "knn_conf": 0.0,
+        "agreed": false,
+        "global_nn_sim": 0.115,
+        "reject_reason": "gate1_nn"
+      },
+      {
+        "image": "IMG-20260317-WA0013.jpg.jpeg",
+        "bbox": [
+          1028,
+          784,
+          1168,
+          961
+        ],
+        "name": "Unknown",
+        "confidence": 0.201,
+        "svm_pred": "Unknown",
+        "svm_conf": 0.0,
+        "knn_pred": "Unknown",
+        "knn_conf": 0.0,
+        "agreed": false,
+        "global_nn_sim": 0.201,
+        "reject_reason": "gate1_nn"
+      }
+    ],
+    "IMG-20260317-WA0016.jpg.jpeg": [
+      {
+        "image": "IMG-20260317-WA0016.jpg.jpeg",
+        "bbox": [
+          140,
+          866,
+          299,
+          1063
+        ],
+        "name": "Unknown",
+        "confidence": 0.267,
+        "svm_pred": "Unknown",
+        "svm_conf": 0.0,
+        "knn_pred": "Unknown",
+        "knn_conf": 0.0,
+        "agreed": false,
+        "global_nn_sim": 0.267,
+        "reject_reason": "gate1_nn"
+      },
+      {
+        "image": "IMG-20260317-WA0016.jpg.jpeg",
+        "bbox": [
+          368,
+          631,
+          475,
+          771
+        ],
+        "name": "Unknown",
+        "confidence": 0.283,
+        "svm_pred": "Unknown",
+        "svm_conf": 0.0,
+        "knn_pred": "Unknown",
+        "knn_conf": 0.0,
+        "agreed": false,
+        "global_nn_sim": 0.283,
+        "reject_reason": "gate1_nn"
+      },
+      {
+        "image": "IMG-20260317-WA0016.jpg.jpeg",
+        "bbox": [
+          509,
+          571,
+          584,
+          661
+        ],
+        "name": "Unknown",
+        "confidence": 0.297,
+        "svm_pred": "Unknown",
+        "svm_conf": 0.0,
+        "knn_pred": "Unknown",
+        "knn_conf": 0.0,
+        "agreed": false,
+        "global_nn_sim": 0.297,
+        "reject_reason": "gate1_nn"
+      },
+      {
+        "image": "IMG-20260317-WA0016.jpg.jpeg",
+        "bbox": [
+          915,
+          643,
+          1000,
+          757
+        ],
+        "name": "Unknown",
+        "confidence": 0.233,
+        "svm_pred": "Unknown",
+        "svm_conf": 0.0,
+        "knn_pred": "Unknown",
+        "knn_conf": 0.0,
+        "agreed": false,
+        "global_nn_sim": 0.233,
+        "reject_reason": "gate1_nn"
+      }
+    ],
+    "IMG-20260317-WA0017.jpg.jpeg": [
+      {
+        "image": "IMG-20260317-WA0017.jpg.jpeg",
+        "bbox": [
+          15,
+          803,
+          157,
+          970
+        ],
+        "name": "Unknown",
+        "confidence": 0.226,
+        "svm_pred": "Unknown",
+        "svm_conf": 0.0,
+        "knn_pred": "Unknown",
+        "knn_conf": 0.0,
+        "agreed": false,
+        "global_nn_sim": 0.226,
+        "reject_reason": "gate1_nn"
+      },
+      {
+        "image": "IMG-20260317-WA0017.jpg.jpeg",
+        "bbox": [
+          304,
+          744,
+          388,
+          845
+        ],
+        "name": "Unknown",
+        "confidence": 0.136,
+        "svm_pred": "Unknown",
+        "svm_conf": 0.0,
+        "knn_pred": "Unknown",
+        "knn_conf": 0.0,
+        "agreed": false,
+        "global_nn_sim": 0.136,
+        "reject_reason": "gate1_nn"
+      },
+      {
+        "image": "IMG-20260317-WA0017.jpg.jpeg",
+        "bbox": [
+          410,
+          701,
+          475,
+          775
+        ],
+        "name": "Unknown",
+        "confidence": 0.232,
+        "svm_pred": "Unknown",
+        "svm_conf": 0.0,
+        "knn_pred": "Unknown",
+        "knn_conf": 0.0,
+        "agreed": false,
+        "global_nn_sim": 0.232,
+        "reject_reason": "gate1_nn"
+      },
+      {
+        "image": "IMG-20260317-WA0017.jpg.jpeg",
+        "bbox": [
+          507,
+          652,
+          562,
+          726
+        ],
+        "name": "Unknown",
+        "confidence": 0.257,
+        "svm_pred": "Unknown",
+        "svm_conf": 0.0,
+        "knn_pred": "Unknown",
+        "knn_conf": 0.0,
+        "agreed": false,
+        "global_nn_sim": 0.257,
+        "reject_reason": "gate1_nn"
+      },
+      {
+        "image": "IMG-20260317-WA0017.jpg.jpeg",
+        "bbox": [
+          577,
+          612,
+          624,
+          666
+        ],
+        "name": "Unknown",
+        "confidence": 0.205,
+        "svm_pred": "Unknown",
+        "svm_conf": 0.0,
+        "knn_pred": "Unknown",
+        "knn_conf": 0.0,
+        "agreed": false,
+        "global_nn_sim": 0.205,
+        "reject_reason": "gate1_nn"
+      },
+      {
+        "image": "IMG-20260317-WA0017.jpg.jpeg",
+        "bbox": [
+          769,
+          988,
+          981,
+          1250
+        ],
+        "name": "Unknown",
+        "confidence": 0.265,
+        "svm_pred": "Unknown",
+        "svm_conf": 0.0,
+        "knn_pred": "Unknown",
+        "knn_conf": 0.0,
+        "agreed": false,
+        "global_nn_sim": 0.265,
+        "reject_reason": "gate1_nn"
+      },
+      {
+        "image": "IMG-20260317-WA0017.jpg.jpeg",
+        "bbox": [
+          932,
+          615,
+          1037,
+          753
+        ],
+        "name": "Unknown",
+        "confidence": 0.139,
+        "svm_pred": "Unknown",
+        "svm_conf": 0.0,
+        "knn_pred": "Unknown",
+        "knn_conf": 0.0,
+        "agreed": false,
+        "global_nn_sim": 0.139,
+        "reject_reason": "gate1_nn"
+      }
+    ]
+  }
+}

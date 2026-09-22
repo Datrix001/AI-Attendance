@@ -1,0 +1,21 @@
+{
+  "names_map": {
+    "0": "mayank 23030124003",
+    "1": "ronak 23030124043"
+  },
+  "summary": {
+    "mayank 23030124003": {
+      "label": 0,
+      "train_embeddings": 477,
+      "total_images": 53
+    },
+    "ronak 23030124043": {
+      "label": 1,
+      "train_embeddings": 405,
+      "total_images": 45
+    }
+  },
+  "total_students": 2,
+  "total_train_embeddings": 882,
+  "total_test_embeddings": 0
+}
